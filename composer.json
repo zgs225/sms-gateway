@@ -28,10 +28,7 @@
     "autoload-dev": {
       "classmap": [
         "tests/TestCase.php"
-      ],
-      "psr-4": {
-        "Yuez\\Test\\": "tests/"
-      }
+      ]
     },
     "minimum-stability": "stable"
 }
